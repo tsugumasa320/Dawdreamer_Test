@@ -2,7 +2,7 @@
 
 * DAWdreamer_Test Project
   * MIDIデータを作成した Ableton Liveのプロジェクトファイル
-*　Dawdreamer_Test.ipynb
+* Dawdreamer_Test.ipynb
   * Dawdreamerのissueから集めたスニペット（うまく動かないもの多し)
 * Dawdreamer_wiki.ipynb
   * [ここ](https://github.com/DBraun/DawDreamer/wiki/Plugin-Processor)のコードを勉強用に変更
